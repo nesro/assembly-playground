@@ -1,6 +1,6 @@
 #include <unistd.h> /* for _exit syscall */
 
-main() {
+int main() {
 	/*
 	 * write two strings to stdout with a write syscall
 	 */
